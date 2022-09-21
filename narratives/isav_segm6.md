@@ -11,7 +11,6 @@ abstract: "A visualisation of NCBI deposited data for segment 6 of ISAV, display
 # [Map View](https://nextstrain.org/community/kaio74/isav_segm6?c=HPR&d=map&l=clock&p=full&r=region)
 
 ## Distribution of ISAV outbreaks and the relative ammount of the ***HPR0*** and ***HPRD*** subtypes according to published annotations.
-![HI_logo](https://hinnsiden.no/tema/profiltorg/PublishingImages/Sider/instituttets_logo/HI%20logo%20farger%20norsk.png)
 
 # [Substitution Rate Estimates](https://nextstrain.org/community/kaio74/isav_segm6?d=tree&l=clock&p=full&r=region)
 
